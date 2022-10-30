@@ -24,7 +24,7 @@ on the root folder. if it doesn't run, try ```npm install``` and the run again.
 
 <h1>Update the user</h1>
 <p>You can provide any field you what to be updated. </p>
-<strong>Remember, you have to provide the access token into the header!</strong>
+<small>Remember, you have to provide the access token into the header!</>
 
 <![updateUser](https://user-images.githubusercontent.com/92902916/198899082-1f2317d8-1527-4513-a1b3-d2abb20ca5a1.png)
 
