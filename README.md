@@ -31,12 +31,12 @@ on the root folder. if it doesn't run, try ```npm install``` and then run again.
 ![updateUser](https://user-images.githubusercontent.com/92902916/198899082-1f2317d8-1527-4513-a1b3-d2abb20ca5a1.png)
 
 <h1>Delete the user</h1>
-<p>to delete the user, you have to provide the access token into the header.</p>
+<p>To delete the user, you have to provide the access token into the header.</p>
 
 ![deleteUser](https://user-images.githubusercontent.com/92902916/198899308-6a44ed93-fdb8-44fe-8524-3600a85452ef.png)
 
-<h1>Login a user</h1>
-<p>To login a user, you have to provide the email and the password and then, if successfully, you receive a new access token</p>
+<h1>Login</h1>
+<p>To login a user, you have to provide the email and the password and then, if successfully, you receive a new access token with all the users informations</p>
 
 ![login_correct](https://user-images.githubusercontent.com/92902916/198899453-986c49da-7978-4e66-929b-2ec2550b3632.png)
 
