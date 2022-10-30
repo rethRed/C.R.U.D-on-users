@@ -5,7 +5,7 @@
 <strong> I used the mvc structure, typescript, express.js, express validator, mysql and typeorm as the database manager.</strong>
 
 <strong>To setup the project, you have to download it and config your .env with your local database configurations and then run  ```npm run dev``` 
-on the root folder. if it doesn't run, try ```npm install``` and the run again.</strong>
+on the root folder. if it doesn't run, try ```npm install``` and then run again.</strong>
 
 <h1>Create the user</h1>
 
