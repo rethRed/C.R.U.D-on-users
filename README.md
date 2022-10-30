@@ -14,7 +14,7 @@ on the root folder. if it doesn't run, try ```npm install``` and then run again.
 <h1>Token</h1>
 
 <p>After the user is created, a access token is generated. That is gonna allow you to config the user </p>
-<p>You can set the token's lifetime in the ```.env``` file. The default is set to 1H. </p>
+<p>You can set the token's lifetime in the <strong>.env</strong> file. The default is set to 1H. </p>
 
 ![newToken](https://user-images.githubusercontent.com/92902916/198898931-69ce45d9-9c3b-4a99-94a4-eaa3c1d8a04f.png)
 
