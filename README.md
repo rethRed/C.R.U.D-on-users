@@ -24,8 +24,7 @@ on the root folder. if it doesn't run, try ```npm install``` and then run again.
 ![getUser](https://user-images.githubusercontent.com/92902916/198899014-d6267190-41c6-4a66-a791-682725cd60e4.png)
 
 <h1>Update the user</h1>
-<p>You can provide any field you what to be updated. </p>
-<p>Any field is optional. </p>
+<p>You can provide any field you what to be updated, so that means that Any field is optional.</p>
 <small>Remember, you have to provide the access token into the header!</>
 
 
